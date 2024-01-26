@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 <html><body>Greetings from Amazon Web Services,<br><br>We received a reques=
 t to reset the password for the AWS account associated with this e-mail add=
 ress. Click the link below to reset your password using our secure server:<=
-br><br>https://signin.aws.amazon.com/resetpassword?type=3DRootUser&token=3D=
-rLQ5r0ntf0GZu4yabQoUpy8_WpqDuHpvucRe_uEAiOoXMAIV3oSqlUsaxj0RrzbQoSmsJpKxSTi=
+br><br>https://signin.aws.amazon.com/resetpassword?type=3DRootUser&
+token=3D=rLQ5r0ntf0GZu4yabQoUpy8_WpqDuHpvucRe_uEAiOoXMAIV3oSqlUsaxj0RrzbQoSmsJpKxSTi=
 kKWYTPdK0zWPpvD1_YHkl-xOnTAQklo38VvUp5-l4A9SsqSyoFMXvhNEIbOrymLkn1H9dr9vh4m=
 gTSyld54VTDmo-FN9QQILyA4gD8Abj0Y_CQjQAo7sNB5MjyiF7wXpSNF_MrcRVlp9tE9GiUc6hY=
 eCU8C9tJU4eiq9wIzu6V6rbZ1qzvrg9nQH4LcE9o5xT6iLSkygCfIv5nTVNYYvL_vPHkaL1&key=
